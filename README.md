@@ -27,7 +27,7 @@ The /public folder is where the website runs from and all frontend assets will b
 ```
 
 - The domain must be devtest.lvh.me
-- Don't forget to restart your server!
+- Don't forget to restart your server
 
 ### How to run
 
