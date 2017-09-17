@@ -1,5 +1,5 @@
 cache
-public
+public/
 !public/index.php
 .log
 .DS_Store
